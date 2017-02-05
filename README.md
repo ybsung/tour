@@ -27,6 +27,7 @@ Tour near the resort : https://resorts.disney.go.com/aulani-hawaii-resort/map/?z
 Map :
 - https://secure.as1.wdpromedia.com/media/dm/en-us/aulani/map/Aulani-7-15-13-1838x1234.jpg
 - http://yankeetravel.com/wp-content/uploads/2015/09/Aulani.jpg
+- https://resorts.disney.go.com/aulani-hawaii-resort/dining/table-service/makahiki-buffet/
 
 
 ##### DVC

@@ -39,3 +39,6 @@ Map :
 ### Tour
 
 GAJA : https://gajahawaii.com/
+
+### Blog
+- http://jina_1104.blog.me/220157931727

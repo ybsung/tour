@@ -9,6 +9,15 @@ https://www.kayak.co.kr/
 
 http://www.toptravel.co.kr/
 
+- http://book.naver.com/bookdb/text_view.nhn?bid=1479236&dencrt=0UWcnOjiAzGT%252FqXaMEr5Tgudp%252Fi25l1R2tCWmMLuCwY%253D&term=%BF%CD%C0%CC+%C6%E4%C0%CC+%B8%F0%BE%C6&query=%EC%99%80%EC%9D%B4%ED%8E%98%EC%9D%B4%EB%AA%A8%EC%95%84
+
+## Hotel & Rental
+
+https://kr.hotels.com/
+https://www.airbnb.co.kr/
+
+- http://navercast.naver.com/magazine_contents.nhn?rid=2011&contents_id=34605
+
 ## Honolulu
 
 ### Sightseeing
@@ -22,6 +31,10 @@ http://www.toptravel.co.kr/
 YOKOCHO : http://www.waikiki-yokocho.com/
 
 ### Hotel
+
+#### Reservation
+http://hawaiiminbaktel.com/index.php
+
 
 #### Aulani, A Disney Resort & Spa
 

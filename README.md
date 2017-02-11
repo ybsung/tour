@@ -18,6 +18,10 @@ https://www.airbnb.co.kr/
 
 - http://navercast.naver.com/magazine_contents.nhn?rid=2011&contents_id=34605
 
+## Restaruant Reservation
+
+https://www.opentable.com/
+
 ## Honolulu
 
 ### Sightseeing

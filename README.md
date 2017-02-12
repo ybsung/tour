@@ -1,5 +1,13 @@
 # tour
 
+## Tour plan
+
+Google my plan
+- http://2cho.tistory.com/entry/%EC%9D%BC%EB%B3%B8-%EC%97%AC%ED%96%89-%EA%B8%B0%EC%B4%88-%EC%97%AC%ED%96%89-%EA%B3%84%ED%9A%8D%EC%97%90-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EA%B5%AC%EA%B8%80%EC%A7%80%EB%8F%84-%EC%82%AC%EC%9A%A9%EB%B2%95
+Google trip : https://get.google.com/trips/
+Google map : https://www.google.co.kr/maps/
+- http://2cho.tistory.com/entry/%EC%9D%BC%EB%B3%B8-%EC%97%AC%ED%96%89-%EA%B8%B0%EC%B4%88-%EC%9D%BC%EB%B3%B8-%EC%97%AC%ED%96%89%EC%9D%B4-1000-%EC%89%AC%EC%9B%8C%EC%A7%80%EB%8A%94-%EA%B5%AC%EA%B8%80%EC%A7%80%EB%8F%84-%EC%82%AC%EC%9A%A9%EB%B2%95
+
 ## Flight
 
 why pay more : http://www.whypaymore.co.kr/

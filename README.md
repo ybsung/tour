@@ -61,6 +61,7 @@ Cost : https://www.dvcrequest.com/cost-calculator.asp
 Deluxe-studio : https://resorts.disney.go.com/aulani-hawaii-resort/rooms-offers/villas/deluxe-studio/
 Blog
 - http://cafe.naver.com/hawaiino1/3626
+- Do & Don't : http://tripsandgiggles.com/story/the-dos-and-donts-of-disneys-aulani-hawaii-resort-spa
 Tour near the resort : https://resorts.disney.go.com/aulani-hawaii-resort/map/?zoom=11&lat=21.467101&lng=-157.975187
 Map :
 - https://secure.as1.wdpromedia.com/media/dm/en-us/aulani/map/Aulani-7-15-13-1838x1234.jpg

@@ -62,12 +62,14 @@ Deluxe-studio : https://resorts.disney.go.com/aulani-hawaii-resort/rooms-offers/
 Blog
 - http://cafe.naver.com/hawaiino1/3626
 - Do & Don't : http://tripsandgiggles.com/story/the-dos-and-donts-of-disneys-aulani-hawaii-resort-spa
+- Activities : http://blog.daum.net/gnathia/7824874
 Tour near the resort : https://resorts.disney.go.com/aulani-hawaii-resort/map/?zoom=11&lat=21.467101&lng=-157.975187
 Map :
 - https://secure.as1.wdpromedia.com/media/dm/en-us/aulani/map/Aulani-7-15-13-1838x1234.jpg
 - http://yankeetravel.com/wp-content/uploads/2015/09/Aulani.jpg
 - https://resorts.disney.go.com/aulani-hawaii-resort/dining/table-service/makahiki-buffet/
-
+- Dining Reservations : https://resorts.disney.go.com/aulani-hawaii-resort/dining/reservation/
+- Breakfast Buffet Menu : https://resorts.disney.go.com/media/resorts/pdf/menus/makahiki-restaurant/makahiki-breakfast-buffet-menu.pdf
 
 ##### DVC
 - DVC Reservation Guide in Korean : http://wangnyeo.blog.me/220435243170

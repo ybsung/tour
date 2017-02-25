@@ -64,8 +64,32 @@
 [ParisWest]: http://cafeptthumb3.phinf.naver.net/20160330_52/rntahsld15_1459319843816MMujz_PNG/%C6%C4%B8%AE%BF%A9%C7%E0%C4%DA%BD%BA_3.png?type=w740
 [ParisEast]: http://cafeptthumb2.phinf.naver.net/20160330_95/rntahsld15_1459320770948OEj9J_PNG/%C6%C4%B8%AE%BF%A9%C7%E0%C4%DA%BD%BA_4.png?type=w740
 
+### Suggestion 2:
+  
+팡테온  
+: 로마 판테온 모델
+  
+소르본대학  
+: 프랑스 최고 대학
+  
+생미셀광장  
+: 스테인드글라스 건물
+  
+노트르담대성당  
+  
+시테섬  
+: 센 강 섬  
+  
+생트샤펠  
+  
+최고법원단지  
+  
+콩시에르주리  
+  
+파리시청사  
+  
 ## Food
-
+  
 ### 오데뜨 Odette  
 파리 노트르담대성당 주변 맛집  
 10:30~19:30  

@@ -199,11 +199,6 @@ Best : 클래식 버거(8.5 유로)
 
 
 
-
-
-
-
-
 [ParisFoodMapOdette]: http://cafeptthumb3.phinf.naver.net/20160315_107/rntahsld15_1458027982021nJ01o_PNG/%C6%C4%B8%AE_%B8%C0%C1%FD_1.png?type=w740
 [ParisFoodMapBerthillon]: http://cafeptthumb4.phinf.naver.net/20160315_258/rntahsld15_1458028220020tToyR_PNG/%C6%C4%B8%AE%B8%C0%C1%FD_3.png?type=w740
 [ParisFoodMapCaldo]: http://cafeptthumb4.phinf.naver.net/20160315_100/rntahsld15_1458028591433OWr6v_PNG/%C6%C4%B8%AE%B8%C0%C1%FD_4.png?type=w740
@@ -212,3 +207,14 @@ Best : 클래식 버거(8.5 유로)
 [ParisFoodMapLeRelaisdelEntrecote]: http://cafeptthumb4.phinf.naver.net/20160315_158/rntahsld15_1458029487001VPLVx_PNG/%C6%C4%B8%AE%B8%C0%C1%FD_7.png?type=w740
 [ParisFoodMapBoulanger]: http://cafeptthumb4.phinf.naver.net/20160315_166/rntahsld15_1458030100000K3SQV_PNG/%C6%C4%B8%AE%B8%C0%C1%FD_8.png?type=w740
 [ParisFoodMapFuxia]: http://cafeptthumb3.phinf.naver.net/20160315_212/rntahsld15_1458030325218qCQps_PNG/%C6%C4%B8%AE%B8%C0%C1%FD_9.png?type=w740
+
+## Activity
+
+### Show
+
+물랑루즈 : http://www.moulinrouge.fr/
+리도 : http://www.lido.fr/
+크레이지 : http://www.lecrazyhorseparis.com/
+파라디아탱쇼 : http://www.paradislatin.com/
+
+

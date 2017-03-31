@@ -8,6 +8,12 @@
 
 http://www.captainbobpicnicsail.com/CaptainBob/Welcome.html
 
+### Surf
+  
+https://hhsurf.com/activities/surf-lessons-waikiki/  
+http://mickeysurfschool.com/surf-lessons/  
+http://www.moku-hi.com/en/  
+
 ## Tour
 
 GAJA : https://gajahawaii.com/

@@ -31,6 +31,10 @@ YOKOCHO : http://www.waikiki-yokocho.com/
 - blog : http://cafe.naver.com/hotellife/958049
 - blog : http://arumino.tistory.com/156
 
+## Yearly Sun Graph for Honolulu  
+
+https://www.timeanddate.com/sun/usa/honolulu  
+
 ## Hotel
 
 ### Reservation

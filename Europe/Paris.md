@@ -207,14 +207,24 @@ Best : 클래식 버거(8.5 유로)
 [ParisFoodMapLeRelaisdelEntrecote]: http://cafeptthumb4.phinf.naver.net/20160315_158/rntahsld15_1458029487001VPLVx_PNG/%C6%C4%B8%AE%B8%C0%C1%FD_7.png?type=w740
 [ParisFoodMapBoulanger]: http://cafeptthumb4.phinf.naver.net/20160315_166/rntahsld15_1458030100000K3SQV_PNG/%C6%C4%B8%AE%B8%C0%C1%FD_8.png?type=w740
 [ParisFoodMapFuxia]: http://cafeptthumb3.phinf.naver.net/20160315_212/rntahsld15_1458030325218qCQps_PNG/%C6%C4%B8%AE%B8%C0%C1%FD_9.png?type=w740
+  
+## Activity  
+  
+### Show  
+  
+물랑루즈 : http://www.moulinrouge.fr/  
+리도 : http://www.lido.fr/  
+크레이지 : http://www.lecrazyhorseparis.com/  
+파라디아탱쇼 : http://www.paradislatin.com/  
+  
+### Blog
 
-## Activity
+3일차 베르사유 궁전 가는법/입장료/운영시간/오디오가이드 정보  
+https://uslog.wordpress.com/2015/10/27/%ED%8C%8C%EB%A6%AC%EC%97%AC%ED%96%893%EC%9D%BC%EC%B0%A8-%EB%B2%A0%EB%A5%B4%EC%82%AC%EC%9C%A0-%EA%B6%81%EC%A0%84-%EA%B0%80%EB%8A%94%EB%B2%95%EC%9E%85%EC%9E%A5%EB%A3%8C%EC%9A%B4%EC%98%81%EC%8B%9C/  
 
-### Show
+파리 뮤지엄패스 구매와 혜택  
+https://uslog.wordpress.com/2015/10/28/%EA%B3%B5%EC%A7%80%ED%8C%8C%EB%A6%AC%EC%97%AC%ED%96%89-%ED%8C%81-%ED%8C%8C%EB%A6%AC-%EB%AE%A4%EC%A7%80%EC%97%84%ED%8C%A8%EC%8A%A4-%EA%B5%AC%EB%A7%A4%EC%99%80-%ED%98%9C%ED%83%9D/  
 
-물랑루즈 : http://www.moulinrouge.fr/
-리도 : http://www.lido.fr/
-크레이지 : http://www.lecrazyhorseparis.com/
-파라디아탱쇼 : http://www.paradislatin.com/
-
-
+샤를드골 공항CDG에서 파리시내 가는 방법  
+https://uslog.wordpress.com/2015/10/27/%EC%83%A4%EB%A5%BC%EB%93%9C%EA%B3%A8-%EA%B3%B5%ED%95%ADcdg%EC%97%90%EC%84%9C-%ED%8C%8C%EB%A6%AC%EC%8B%9C%EB%82%B4-%EA%B0%80%EB%8A%94-%EB%B0%A9%EB%B2%95/  
+  
